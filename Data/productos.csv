@@ -1,0 +1,11 @@
+id_producto,nombre_producto,categoria,precio
+1,Zapatillas Running,Calzado,120.0
+2,Camiseta Deportiva,Ropa,25.0
+3,Pantalón Training,Ropa,40.0
+4,Mancuernas 10kg,Fitness,60.0
+5,Esterilla Yoga,Fitness,20.0
+6,Sudadera Técnica,Ropa,55.0
+7,Botella Deportiva,Accesorios,15.0
+8,Mochila Gym,Accesorios,45.0
+9,Zapatillas CrossFit,Calzado,130.0
+10,Comba Speed,Fitness,18.0

@@ -1,0 +1,11 @@
+id_cliente,nombre,genero,edad,ciudad,fecha_registro
+1,Juan Pérez,M,28,Madrid,2023-01-15
+2,Ana Gómez,F,34,Barcelona,2023-02-10
+3,Carlos Ruiz,M,45,Valencia,2023-03-05
+4,Sofía Torres,F,22,Sevilla,2023-04-20
+5,Miguel López,M,39,Madrid,2023-05-18
+6,Laura Martínez,F,31,Barcelona,2023-06-02
+7,Pedro Sánchez,M,50,Bilbao,2023-06-25
+8,Lucía Fernández,F,27,Valencia,2023-07-14
+9,Jorge Navarro,M,36,Zaragoza,2023-08-01
+10,Elena Romero,F,41,Málaga,2023-09-10
